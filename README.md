@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 💻 Graduando em Análise e Desenvolvimento de Sistemas.
-- 📚 Estou trabalhando como Estágiario de Desenvolvimento na Brasil System.
-- 🌱 Atualmente estou aprendendo Ruby on Rails.
+- 🎓 Graduando em Análise e Desenvolvimento de Sistemas.
+- 💻 Estágiario de Desenvolvimento na Brasil System.
+- 📚 Atualmente estou aprendendo Ruby on Rails.
 
 ### Find me on:
 <a href="https://www.instagram.com/raull_oliiveira/">
