@@ -5,7 +5,7 @@
 
 ### Find me on:
 <a href="https://www.instagram.com/raull_oliiveira/">
-  <img align="center" alt="raul-instagram" width="40" height="40" src="https://img-premium.flaticon.com/png/512/1384/1384063.png?token=exp=1623284527~hmac=7871a964ca679aa8aa3b7e3125501849">
+  <img align="center" alt="raul-instagram" width="40" height="40" src="https://img-premium.flaticon.com/png/512/174/174855.png?token=exp=1623287430~hmac=69d1778889dcbdf784f99c9aacb945f5">
 </a>
 
 <a href="https://www.linkedin.com/in/raul-oliveira1231/">
