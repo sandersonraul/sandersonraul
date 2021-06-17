@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🎓 Graduando em Análise e Desenvolvimento de Sistemas.
-- 💻 Estágiario de Desenvolvimento na Brasil System.
+- 💻 Estágiario de Desenvolvimento na Brasil Systems.
 - 📚 Atualmente estou aprendendo Ruby on Rails.
 
 ### Find me on:
