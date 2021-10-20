@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas.
-- 💻 Estágiario de Desenvolvimento na Brasil System.
+- 💻 Estágiario de Desenvolvimento na Quick Data S/A.
 - 📚 Atualmente estou aprendendo Ruby on Rails.
 
 ### Find me on:
