@@ -1,6 +1,5 @@
 ### Hi there 👋
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas.
-- 💻 Estágiario de Desenvolvimento na Quick Data S/A.
 
 ### Find me on:
 <a href="https://www.instagram.com/raull_oliiveira/">
